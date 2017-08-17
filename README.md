@@ -21,3 +21,5 @@ The extension should now be installed. Make sure to drag the entire folder **not
 Go to facebook.com or reload it if you are already there. You should now have no "Like" button.
 
 You're welcome world.
+
+![PIcture of proof](http://imgur.com/BWqqIDp "Logo Title Text 1")
