@@ -7,7 +7,7 @@
  
   "content_scripts": [{
     "css": ["styles.css"],
-    "matches": ["https://wwww.facebook.com/*"]
+    "matches": ["https://www.facebook.com/*"]
   }]
  
 }
